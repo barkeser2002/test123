@@ -1,0 +1,14 @@
+/*
+Copyright 2016 Banapple Websites
+
+TERMS OF USE
+You may not redistribute this template.
+You may not sell this template.
+You may not claim this template as your own work.
+
+HELP
+Please refer to the Instructions.txt, or contact me on Skype @ TheBanapple, or email jon@thebanapple.com.
+If you wish to customize this and are not capible of doing so yourself, get in touch.
+I charge a small sum for adding more features to this page
+*/
+#title,ul{width:100%}#links,#title{text-align:center}body,li,ul{margin:0;padding:0}li{margin:10px 0;width:20%;display:inline-block}*{font-family:Montserrat,sans-serif}#title{background-color:#ff531a;font-size:100px;color:#fff}#links{font-size:25px;margin-top:25px;margin-bottom:50px;text-transform:uppercase;color:#262626}a,a:hover,a:visited{color:#66f;transition:all .4s ease;text-decoration:none}a:hover{color:#ff531a}@media only screen and (max-width:600px){p{font-size:10px}#title{font-size:25px}h2{font-size:15px}#links{font-size:10px}}
